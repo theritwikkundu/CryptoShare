@@ -1,16 +1,62 @@
-# cryptoshare_app
+<div id="top"></div>
 
-A new Flutter project.
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+<h1 align="center">CryptoShare</h1>
 
-A few resources to get you started if this is your first Flutter project:
+<!-- _Abstract_
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+
+> The main objective of the project is to .
+
+<br>
+
+1. Details
+
+--- -->
+
+<br>
+
+- The project is developed using `Flutter` for cross-platform support.
+
+
+---
+
+<br>
+
+## Developer 👨‍💻
+
+<p align="center">
+	<a href = 'https://github.com/theritwikkundu' target='_blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg height='40px' /></a>
+    &nbsp;
+<p>
+
+---
+
+Please ⭐️ this repository if this project helped you!
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/theritwikkundu/CryptoShare.svg?style=for-the-badge
+[contributors-url]: https://github.com/theritwikkundu/CryptoShare/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/theritwikkundu/CryptoShare.svg?style=for-the-badge
+[forks-url]: https://github.com/theritwikkundu/CryptoShare/network/members
+[stars-shield]: https://img.shields.io/github/stars/theritwikkundu/CryptoShare.svg?style=for-the-badge
+[stars-url]: https://github.com/theritwikkundu/CryptoShare/stargazers
+[issues-shield]: https://img.shields.io/github/issues/theritwikkundu/CryptoShare.svg?style=for-the-badge
+[issues-url]: https://github.com/theritwikkundu/CryptoShare/issues
+[license-shield]: https://img.shields.io/github/license/theritwikkundu/CryptoShare.svg?style=for-the-badge
+[license-url]: https://github.com/theritwikkundu/CryptoShare/blob/master/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/theritwikkundu/
