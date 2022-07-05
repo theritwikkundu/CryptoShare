@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718505569221",
+    "firebase_url": "https://cryptoshare-dd6be-default-rtdb.firebaseio.com/",
+    "project_id": "cryptoshare-dd6be",
+    "storage_bucket": "cryptoshare-dd6be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718505569221:android:2edce74a8e23584681b9ac",
+        "android_client_info": {
+          "package_name": "tech.mrk.crypto_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718505569221-hbf7qvp9tgcipod69vt8u5fkg7u7fnqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNNwKN358IfT-rgJHiJ2_m-NMSonGG750"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718505569221-hbf7qvp9tgcipod69vt8u5fkg7u7fnqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
